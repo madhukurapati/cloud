@@ -63,4 +63,4 @@ jobs:
           app-name: 'Bhanu13'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_073CA72097D641BBB1A2627333D7D49A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A82F997BD15B458DA0AB82754198B623 }}
